@@ -1,0 +1,719 @@
+[31-Jan-2016 16:56:42 UTC] PHP Warning:  require_once(../../clases/Google/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/oauth/solicitar.php on line 5
+[31-Jan-2016 16:56:42 UTC] PHP Stack trace:
+[31-Jan-2016 16:56:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/oauth/solicitar.php:0
+[31-Jan-2016 16:56:42 UTC] PHP Fatal error:  require_once(): Failed opening required '../../clases/Google/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/oauth/solicitar.php on line 5
+[31-Jan-2016 16:56:42 UTC] PHP Stack trace:
+[31-Jan-2016 16:56:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/oauth/solicitar.php:0
+[31-Jan-2016 17:22:22 UTC] PHP Warning:  require(clases/Controlador.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/artista/index.php on line 2
+[31-Jan-2016 17:22:22 UTC] PHP Stack trace:
+[31-Jan-2016 17:22:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:22:22 UTC] PHP Fatal error:  require(): Failed opening required 'clases/Controlador.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/artista/index.php on line 2
+[31-Jan-2016 17:22:22 UTC] PHP Stack trace:
+[31-Jan-2016 17:22:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:23:17 UTC] PHP Warning:  require(clases/AutoCarga.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/ControladorArtista.php on line 2
+[31-Jan-2016 17:23:17 UTC] PHP Stack trace:
+[31-Jan-2016 17:23:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:23:17 UTC] PHP   2. require() /home/ubuntu/workspace/artista/index.php:2
+[31-Jan-2016 17:23:17 UTC] PHP Fatal error:  require(): Failed opening required 'clases/AutoCarga.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/clases/ControladorArtista.php on line 2
+[31-Jan-2016 17:23:17 UTC] PHP Stack trace:
+[31-Jan-2016 17:23:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:23:17 UTC] PHP   2. require() /home/ubuntu/workspace/artista/index.php:2
+[31-Jan-2016 17:25:20 UTC] PHP Warning:  require(clases/AutoCarga.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/ControladorArtista.php on line 2
+[31-Jan-2016 17:25:20 UTC] PHP Stack trace:
+[31-Jan-2016 17:25:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:25:20 UTC] PHP   2. require() /home/ubuntu/workspace/artista/index.php:2
+[31-Jan-2016 17:25:20 UTC] PHP Fatal error:  require(): Failed opening required 'clases/AutoCarga.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/clases/ControladorArtista.php on line 2
+[31-Jan-2016 17:25:20 UTC] PHP Stack trace:
+[31-Jan-2016 17:25:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:25:20 UTC] PHP   2. require() /home/ubuntu/workspace/artista/index.php:2
+[31-Jan-2016 17:25:27 UTC] PHP Warning:  require(clases/AutoCarga.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/ControladorArtista.php on line 2
+[31-Jan-2016 17:25:27 UTC] PHP Stack trace:
+[31-Jan-2016 17:25:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:25:27 UTC] PHP   2. require() /home/ubuntu/workspace/artista/index.php:2
+[31-Jan-2016 17:25:27 UTC] PHP Fatal error:  require(): Failed opening required 'clases/AutoCarga.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/clases/ControladorArtista.php on line 2
+[31-Jan-2016 17:25:27 UTC] PHP Stack trace:
+[31-Jan-2016 17:25:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:25:27 UTC] PHP   2. require() /home/ubuntu/workspace/artista/index.php:2
+[31-Jan-2016 17:26:33 UTC] PHP Warning:  require(clases/AutoCarga.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/ControladorArtista.php on line 2
+[31-Jan-2016 17:26:33 UTC] PHP Stack trace:
+[31-Jan-2016 17:26:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:26:33 UTC] PHP   2. require() /home/ubuntu/workspace/artista/index.php:2
+[31-Jan-2016 17:26:33 UTC] PHP Fatal error:  require(): Failed opening required 'clases/AutoCarga.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/clases/ControladorArtista.php on line 2
+[31-Jan-2016 17:26:33 UTC] PHP Stack trace:
+[31-Jan-2016 17:26:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:26:33 UTC] PHP   2. require() /home/ubuntu/workspace/artista/index.php:2
+[31-Jan-2016 17:26:55 UTC] PHP Fatal error:  Cannot redeclare class Controlador in /home/ubuntu/workspace/clases/ControladorArtista.php on line 4
+[31-Jan-2016 17:26:55 UTC] PHP Stack trace:
+[31-Jan-2016 17:26:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:26:55 UTC] PHP   2. spl_autoload_call(*uninitialized*) /home/ubuntu/workspace/artista/index.php:3
+[31-Jan-2016 17:26:55 UTC] PHP   3. AutoCarga::cargar($clase = *uninitialized*) /home/ubuntu/workspace/artista/index.php:3
+[31-Jan-2016 17:27:14 UTC] PHP Fatal error:  Class 'Database' not found in /home/ubuntu/workspace/clases/ControladorArtista.php on line 7
+[31-Jan-2016 17:27:14 UTC] PHP Stack trace:
+[31-Jan-2016 17:27:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:27:14 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[31-Jan-2016 17:27:58 UTC] PHP Fatal error:  Class 'Database' not found in /home/ubuntu/workspace/clases/ControladorArtista.php on line 7
+[31-Jan-2016 17:27:58 UTC] PHP Stack trace:
+[31-Jan-2016 17:27:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:27:58 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[31-Jan-2016 17:35:05 UTC] PHP Warning:  file_get_contents(templates/_principal.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[31-Jan-2016 17:35:05 UTC] PHP Stack trace:
+[31-Jan-2016 17:35:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:35:05 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[31-Jan-2016 17:35:05 UTC] PHP   3. ControladorArtista->metodo0() /home/ubuntu/workspace/clases/ControladorArtista.php:14
+[31-Jan-2016 17:35:05 UTC] PHP   4. Plantilla::cargarPlantilla($ruta = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:18
+[31-Jan-2016 17:35:05 UTC] PHP   5. file_get_contents(*uninitialized*) /home/ubuntu/workspace/clases/Plantilla.php:4
+[31-Jan-2016 17:35:05 UTC] PHP Warning:  file_get_contents(templates/_plantilla.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[31-Jan-2016 17:35:05 UTC] PHP Stack trace:
+[31-Jan-2016 17:35:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 17:35:05 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[31-Jan-2016 17:35:05 UTC] PHP   3. ControladorArtista->metodo0() /home/ubuntu/workspace/clases/ControladorArtista.php:14
+[31-Jan-2016 17:35:05 UTC] PHP   4. Plantilla::cargarPlantilla($ruta = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:19
+[31-Jan-2016 17:35:05 UTC] PHP   5. file_get_contents(*uninitialized*) /home/ubuntu/workspace/clases/Plantilla.php:4
+[31-Jan-2016 18:40:37 UTC] PHP Fatal error:  Call to undefined method ManageArtista::getNombreArtistico() in /home/ubuntu/workspace/clases/ControladorArtista.php on line 167
+[31-Jan-2016 18:40:37 UTC] PHP Stack trace:
+[31-Jan-2016 18:40:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 18:40:37 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[31-Jan-2016 18:40:37 UTC] PHP   3. ControladorArtista->metodoentrar($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[31-Jan-2016 18:44:01 UTC] PHP Fatal error:  Class 'Server' not found in /home/ubuntu/workspace/clases/Session.php on line 22
+[31-Jan-2016 18:44:01 UTC] PHP Stack trace:
+[31-Jan-2016 18:44:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 18:44:01 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[31-Jan-2016 18:44:01 UTC] PHP   3. ControladorArtista->metodoentrar($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[31-Jan-2016 18:44:01 UTC] PHP   4. Session->__construct($nombre = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:205
+[31-Jan-2016 18:44:01 UTC] PHP   5. Session->_control() /home/ubuntu/workspace/clases/Session.php:13
+[31-Jan-2016 18:52:03 UTC] PHP Fatal error:  Call to undefined method Server::getClientAddress() in /home/ubuntu/workspace/clases/Session.php on line 22
+[31-Jan-2016 18:52:03 UTC] PHP Stack trace:
+[31-Jan-2016 18:52:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 18:52:03 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[31-Jan-2016 18:52:03 UTC] PHP   3. ControladorArtista->metodoentrar($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[31-Jan-2016 18:52:03 UTC] PHP   4. Session->__construct($nombre = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:205
+[31-Jan-2016 18:52:03 UTC] PHP   5. Session->_control() /home/ubuntu/workspace/clases/Session.php:13
+[31-Jan-2016 18:53:47 UTC] PHP Fatal error:  Call to undefined method Server::getClientAddress() in /home/ubuntu/workspace/clases/Session.php on line 22
+[31-Jan-2016 18:53:47 UTC] PHP Stack trace:
+[31-Jan-2016 18:53:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 18:53:47 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[31-Jan-2016 18:53:47 UTC] PHP   3. ControladorArtista->metodoentrar($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[31-Jan-2016 18:53:47 UTC] PHP   4. Session->__construct($nombre = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:203
+[31-Jan-2016 18:53:47 UTC] PHP   5. Session->_control() /home/ubuntu/workspace/clases/Session.php:13
+[31-Jan-2016 18:54:27 UTC] PHP Fatal error:  Call to undefined method Session::_control() in /home/ubuntu/workspace/clases/Session.php on line 13
+[31-Jan-2016 18:54:27 UTC] PHP Stack trace:
+[31-Jan-2016 18:54:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 18:54:27 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[31-Jan-2016 18:54:27 UTC] PHP   3. ControladorArtista->metodoentrar($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[31-Jan-2016 18:54:27 UTC] PHP   4. Session->__construct($nombre = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:203
+[31-Jan-2016 18:54:57 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/ubuntu/workspace/clases/ControladorArtista.php on line 212
+[31-Jan-2016 18:54:57 UTC] PHP Stack trace:
+[31-Jan-2016 18:54:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 18:54:57 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[31-Jan-2016 18:54:57 UTC] PHP   3. ControladorArtista->metodoartista() /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[31-Jan-2016 18:56:06 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/ubuntu/workspace/clases/ControladorArtista.php on line 212
+[31-Jan-2016 18:56:06 UTC] PHP Stack trace:
+[31-Jan-2016 18:56:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 18:56:06 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[31-Jan-2016 18:56:06 UTC] PHP   3. ControladorArtista->metodoartista($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[31-Jan-2016 18:56:18 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/ubuntu/workspace/clases/ControladorArtista.php on line 212
+[31-Jan-2016 18:56:18 UTC] PHP Stack trace:
+[31-Jan-2016 18:56:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[31-Jan-2016 18:56:18 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[31-Jan-2016 18:56:18 UTC] PHP   3. ControladorArtista->metodoartista() /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[31-Jan-2016 19:14:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/clases/ControladorArtista.php on line 244
+[31-Jan-2016 19:14:06 UTC] PHP Stack trace:
+[31-Jan-2016 19:14:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 12:14:01 UTC] PHP Warning:  file_get_contents(templates/_signIn.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 12:14:01 UTC] PHP Stack trace:
+[06-Feb-2016 12:14:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 12:14:01 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 12:14:01 UTC] PHP   3. ControladorArtista->metodo1(*uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 12:14:01 UTC] PHP   4. Plantilla::cargarPlantilla($ruta = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:26
+[06-Feb-2016 12:14:01 UTC] PHP   5. file_get_contents(*uninitialized*) /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 12:14:01 UTC] PHP Warning:  file_get_contents(templates/_plantilla.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 12:14:01 UTC] PHP Stack trace:
+[06-Feb-2016 12:14:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 12:14:01 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 12:14:01 UTC] PHP   3. ControladorArtista->metodo1(*uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 12:14:01 UTC] PHP   4. Plantilla::cargarPlantilla($ruta = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:27
+[06-Feb-2016 12:14:01 UTC] PHP   5. file_get_contents(*uninitialized*) /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 12:14:02 UTC] PHP Warning:  file_get_contents(templates/_signIn.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 12:14:02 UTC] PHP Stack trace:
+[06-Feb-2016 12:14:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 12:14:02 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 12:14:02 UTC] PHP   3. ControladorArtista->metodo1(*uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 12:14:02 UTC] PHP   4. Plantilla::cargarPlantilla($ruta = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:26
+[06-Feb-2016 12:14:02 UTC] PHP   5. file_get_contents(*uninitialized*) /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 12:14:02 UTC] PHP Warning:  file_get_contents(templates/_plantilla.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 12:14:02 UTC] PHP Stack trace:
+[06-Feb-2016 12:14:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 12:14:02 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 12:14:02 UTC] PHP   3. ControladorArtista->metodo1(*uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 12:14:02 UTC] PHP   4. Plantilla::cargarPlantilla($ruta = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:27
+[06-Feb-2016 12:14:02 UTC] PHP   5. file_get_contents(*uninitialized*) /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 12:15:27 UTC] PHP Warning:  file_get_contents(templates/_signIn.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 12:15:27 UTC] PHP Stack trace:
+[06-Feb-2016 12:15:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 12:15:27 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 12:15:27 UTC] PHP   3. ControladorArtista->metodo1(*uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 12:15:27 UTC] PHP   4. Plantilla::cargarPlantilla($ruta = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:26
+[06-Feb-2016 12:15:27 UTC] PHP   5. file_get_contents(*uninitialized*) /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 12:15:27 UTC] PHP Warning:  file_get_contents(templates/_plantilla.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 12:15:27 UTC] PHP Stack trace:
+[06-Feb-2016 12:15:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 12:15:27 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 12:15:27 UTC] PHP   3. ControladorArtista->metodo1(*uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 12:15:27 UTC] PHP   4. Plantilla::cargarPlantilla($ruta = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:27
+[06-Feb-2016 12:15:27 UTC] PHP   5. file_get_contents(*uninitialized*) /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 12:15:36 UTC] PHP Warning:  file_get_contents(templates/_signIn.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 12:15:36 UTC] PHP Stack trace:
+[06-Feb-2016 12:15:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 12:15:36 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 12:15:36 UTC] PHP   3. ControladorArtista->metodo1() /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 12:15:36 UTC] PHP   4. Plantilla::cargarPlantilla() /home/ubuntu/workspace/clases/ControladorArtista.php:26
+[06-Feb-2016 12:15:36 UTC] PHP   5. file_get_contents() /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 12:15:36 UTC] PHP Warning:  file_get_contents(templates/_plantilla.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 12:15:36 UTC] PHP Stack trace:
+[06-Feb-2016 12:15:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 12:15:36 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 12:15:36 UTC] PHP   3. ControladorArtista->metodo1() /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 12:15:36 UTC] PHP   4. Plantilla::cargarPlantilla() /home/ubuntu/workspace/clases/ControladorArtista.php:27
+[06-Feb-2016 12:15:36 UTC] PHP   5. file_get_contents() /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 12:17:41 UTC] PHP Warning:  file_get_contents(../templates/_plantilla.1.1html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 12:17:41 UTC] PHP Stack trace:
+[06-Feb-2016 12:17:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 12:17:41 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 12:17:41 UTC] PHP   3. ControladorArtista->metodo1(*uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 12:17:41 UTC] PHP   4. Plantilla::cargarPlantilla($ruta = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:27
+[06-Feb-2016 12:17:41 UTC] PHP   5. file_get_contents(*uninitialized*) /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 12:17:57 UTC] PHP Warning:  file_get_contents(../templates/_plantilla.1.1.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 12:17:57 UTC] PHP Stack trace:
+[06-Feb-2016 12:17:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 12:17:57 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 12:17:57 UTC] PHP   3. ControladorArtista->metodo1(*uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 12:17:57 UTC] PHP   4. Plantilla::cargarPlantilla($ruta = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:27
+[06-Feb-2016 12:17:57 UTC] PHP   5. file_get_contents(*uninitialized*) /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 12:50:51 UTC] PHP Fatal error:  Call to undefined method ManageArtista::getArtista() in /home/ubuntu/workspace/clases/ControladorArtista.php on line 231
+[06-Feb-2016 12:50:51 UTC] PHP Stack trace:
+[06-Feb-2016 12:50:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 12:50:51 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 12:50:51 UTC] PHP   3. ControladorArtista->metodoartista($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 13:21:44 UTC] PHP Fatal error:  Call to undefined function get() in /home/ubuntu/workspace/clases/ControladorArtista.php on line 280
+[06-Feb-2016 13:21:44 UTC] PHP Stack trace:
+[06-Feb-2016 13:21:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 13:21:44 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 13:21:44 UTC] PHP   3. ControladorArtista->metodophpCambiarNombre($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 13:22:09 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/ubuntu/workspace/clases/ControladorArtista.php on line 280
+[06-Feb-2016 13:22:09 UTC] PHP Stack trace:
+[06-Feb-2016 13:22:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 13:22:09 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 13:22:09 UTC] PHP   3. ControladorArtista->metodophpCambiarNombre($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 13:22:51 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/ubuntu/workspace/clases/ControladorArtista.php on line 280
+[06-Feb-2016 13:22:51 UTC] PHP Stack trace:
+[06-Feb-2016 13:22:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 13:22:51 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 13:22:51 UTC] PHP   3. ControladorArtista->metodophpCambiarNombre($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 13:23:11 UTC] PHP Fatal error:  Call to a member function getActivo() on a non-object in /home/ubuntu/workspace/clases/ControladorArtista.php on line 285
+[06-Feb-2016 13:23:11 UTC] PHP Stack trace:
+[06-Feb-2016 13:23:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 13:23:11 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 13:23:11 UTC] PHP   3. ControladorArtista->metodophpCambiarNombre($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 14:36:21 UTC] PHP Fatal error:  Class 'UploadFile' not found in /home/ubuntu/workspace/clases/ControladorArtista.php on line 337
+[06-Feb-2016 14:36:21 UTC] PHP Stack trace:
+[06-Feb-2016 14:36:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 14:36:21 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 14:36:21 UTC] PHP   3. ControladorArtista->metodophpSubir($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 14:41:13 UTC] PHP Catchable fatal error:  Object of class UploadFile could not be converted to string in /home/ubuntu/workspace/clases/ControladorArtista.php on line 339
+[06-Feb-2016 14:41:13 UTC] PHP Stack trace:
+[06-Feb-2016 14:41:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 14:41:13 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 14:41:13 UTC] PHP   3. ControladorArtista->metodophpSubir($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 15:20:36 UTC] PHP Fatal error:  Class 'UploadFile' not found in /home/ubuntu/workspace/clases/ControladorArtista.php on line 337
+[06-Feb-2016 15:20:36 UTC] PHP Stack trace:
+[06-Feb-2016 15:20:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 15:20:36 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 15:20:36 UTC] PHP   3. ControladorArtista->metodophpSubir($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 17:00:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/clases/ControladorArtista.php on line 359
+[06-Feb-2016 17:00:39 UTC] PHP Stack trace:
+[06-Feb-2016 17:00:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 17:01:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/clases/ControladorArtista.php on line 359
+[06-Feb-2016 17:01:18 UTC] PHP Stack trace:
+[06-Feb-2016 17:01:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 17:01:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/clases/ControladorArtista.php on line 359
+[06-Feb-2016 17:01:21 UTC] PHP Stack trace:
+[06-Feb-2016 17:01:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 18:42:35 UTC] PHP Fatal error:  Maximum function nesting level of '256' reached, aborting! in /home/ubuntu/workspace/clases/UploadFile.php on line 53
+[06-Feb-2016 18:42:35 UTC] PHP Stack trace:
+[06-Feb-2016 18:42:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 18:42:35 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[06-Feb-2016 18:42:35 UTC] PHP   3. ControladorArtista->metodophpSubir() /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[06-Feb-2016 18:42:35 UTC] PHP   4. UploadFile->getExtension() /home/ubuntu/workspace/clases/ControladorArtista.php:342
+[06-Feb-2016 18:42:35 UTC] PHP   5. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP   6. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP   7. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP   8. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP   9. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  10. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  11. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  12. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  13. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  14. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  15. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  16. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  17. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  18. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  19. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  20. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  21. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  22. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  23. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  24. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  25. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  26. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  27. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  28. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  29. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  30. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  31. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  32. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  33. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  34. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  35. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  36. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  37. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  38. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  39. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  40. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  41. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  42. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  43. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  44. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  45. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  46. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  47. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  48. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  49. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  50. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  51. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  52. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  53. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  54. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  55. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  56. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  57. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  58. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  59. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  60. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  61. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  62. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  63. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  64. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  65. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  66. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  67. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  68. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  69. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  70. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  71. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  72. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  73. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  74. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  75. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  76. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  77. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  78. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  79. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  80. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  81. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  82. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  83. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  84. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  85. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  86. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  87. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  88. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  89. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  90. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  91. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  92. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  93. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  94. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  95. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  96. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  97. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  98. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP  99. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 100. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 101. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 102. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 103. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 104. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 105. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 106. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 107. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 108. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 109. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 110. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 111. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 112. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 113. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 114. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 115. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 116. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 117. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 118. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 119. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 120. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 121. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 122. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 123. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 124. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 125. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 126. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 127. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 128. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 129. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 130. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 131. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 132. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 133. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 134. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 135. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 136. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 137. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 138. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 139. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 140. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 141. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 142. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 143. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 144. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 145. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 146. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 147. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 148. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 149. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 150. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 151. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 152. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 153. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 154. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 155. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 156. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 157. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 158. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 159. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 160. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 161. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 162. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 163. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 164. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 165. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 166. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 167. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 168. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 169. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 170. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 171. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 172. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 173. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 174. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 175. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 176. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 177. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 178. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 179. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 180. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 181. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 182. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 183. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 184. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 185. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 186. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 187. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 188. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 189. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 190. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 191. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 192. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 193. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 194. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 195. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 196. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 197. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 198. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 199. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 200. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 201. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 202. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 203. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 204. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 205. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 206. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 207. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 208. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 209. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 210. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 211. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 212. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 213. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 214. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 215. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 216. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 217. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 218. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 219. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 220. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 221. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 222. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 223. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 224. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 225. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 226. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 227. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 228. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 229. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 230. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 231. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 232. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 233. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 234. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 235. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 236. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 237. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 238. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 239. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 240. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 241. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 242. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 243. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 244. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 245. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 246. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 247. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 248. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 249. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 250. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 251. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 252. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 253. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 254. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 255. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:42:35 UTC] PHP 256. UploadFile->getExtension() /home/ubuntu/workspace/clases/UploadFile.php:54
+[06-Feb-2016 18:46:50 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/clases/ControladorArtista.php on line 346
+[06-Feb-2016 18:46:50 UTC] PHP Stack trace:
+[06-Feb-2016 18:46:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[06-Feb-2016 19:04:28 UTC] PHP Fatal error:  Cannot redeclare class ControladorArtista in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 4
+[06-Feb-2016 19:04:28 UTC] PHP Stack trace:
+[06-Feb-2016 19:04:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 19:04:28 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/cuadro/index.php:3
+[06-Feb-2016 19:04:28 UTC] PHP   3. AutoCarga::cargar() /home/ubuntu/workspace/cuadro/index.php:3
+[06-Feb-2016 19:06:05 UTC] PHP Warning:  Missing argument 5 for Cuadro::__construct(), called in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 53 and defined in /home/ubuntu/workspace/clases/Cuadro.php on line 6
+[06-Feb-2016 19:06:05 UTC] PHP Stack trace:
+[06-Feb-2016 19:06:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 19:06:05 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 19:06:05 UTC] PHP   3. ControladorCuadro->metodophpSubir() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 19:06:05 UTC] PHP   4. Cuadro->__construct() /home/ubuntu/workspace/clases/ControladorCuadro.php:53
+[06-Feb-2016 19:08:43 UTC] PHP Warning:  Missing argument 5 for Cuadro::__construct(), called in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 53 and defined in /home/ubuntu/workspace/clases/Cuadro.php on line 6
+[06-Feb-2016 19:08:43 UTC] PHP Stack trace:
+[06-Feb-2016 19:08:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 19:08:43 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 19:08:43 UTC] PHP   3. ControladorCuadro->metodophpSubir() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 19:08:43 UTC] PHP   4. Cuadro->__construct() /home/ubuntu/workspace/clases/ControladorCuadro.php:53
+[06-Feb-2016 20:19:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 107
+[06-Feb-2016 20:19:03 UTC] PHP Stack trace:
+[06-Feb-2016 20:19:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:19:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 107
+[06-Feb-2016 20:19:09 UTC] PHP Stack trace:
+[06-Feb-2016 20:19:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:19:40 UTC] PHP Warning:  Missing argument 4 for Cuadro::__construct(), called in /home/ubuntu/workspace/clases/ManageCuadro.php on line 40 and defined in /home/ubuntu/workspace/clases/Cuadro.php on line 6
+[06-Feb-2016 20:19:40 UTC] PHP Stack trace:
+[06-Feb-2016 20:19:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:19:40 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:19:40 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:19:40 UTC] PHP   4. ManageCuadro->getList() /home/ubuntu/workspace/clases/ControladorCuadro.php:86
+[06-Feb-2016 20:19:40 UTC] PHP   5. Cuadro->__construct() /home/ubuntu/workspace/clases/ManageCuadro.php:40
+[06-Feb-2016 20:19:40 UTC] PHP Warning:  file_get_contents(../plantilla/_obras.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 20:19:40 UTC] PHP Stack trace:
+[06-Feb-2016 20:19:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:19:40 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:19:40 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:19:40 UTC] PHP   4. Plantilla::cargarPlantilla() /home/ubuntu/workspace/clases/ControladorCuadro.php:87
+[06-Feb-2016 20:19:40 UTC] PHP   5. file_get_contents() /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 20:19:40 UTC] PHP Fatal error:  Call to undefined method Cuadro::getID() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 92
+[06-Feb-2016 20:19:40 UTC] PHP Stack trace:
+[06-Feb-2016 20:19:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:19:40 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:19:40 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:23:18 UTC] PHP Fatal error:  Undefined class constant 'Constant::NRPP' in /home/ubuntu/workspace/clases/ManageCuadro.php on line 107
+[06-Feb-2016 20:23:18 UTC] PHP Stack trace:
+[06-Feb-2016 20:23:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:23:18 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:23:18 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:23:18 UTC] PHP   4. ManageCuadro->getList2() /home/ubuntu/workspace/clases/ControladorCuadro.php:86
+[06-Feb-2016 20:23:50 UTC] PHP Warning:  Missing argument 4 for Cuadro::__construct(), called in /home/ubuntu/workspace/clases/ManageCuadro.php on line 112 and defined in /home/ubuntu/workspace/clases/Cuadro.php on line 6
+[06-Feb-2016 20:23:50 UTC] PHP Stack trace:
+[06-Feb-2016 20:23:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:23:50 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:23:50 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:23:50 UTC] PHP   4. ManageCuadro->getList2() /home/ubuntu/workspace/clases/ControladorCuadro.php:86
+[06-Feb-2016 20:23:50 UTC] PHP   5. Cuadro->__construct() /home/ubuntu/workspace/clases/ManageCuadro.php:112
+[06-Feb-2016 20:23:50 UTC] PHP Warning:  Missing argument 4 for Cuadro::__construct(), called in /home/ubuntu/workspace/clases/ManageCuadro.php on line 112 and defined in /home/ubuntu/workspace/clases/Cuadro.php on line 6
+[06-Feb-2016 20:23:50 UTC] PHP Stack trace:
+[06-Feb-2016 20:23:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:23:50 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:23:50 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:23:50 UTC] PHP   4. ManageCuadro->getList2() /home/ubuntu/workspace/clases/ControladorCuadro.php:86
+[06-Feb-2016 20:23:50 UTC] PHP   5. Cuadro->__construct() /home/ubuntu/workspace/clases/ManageCuadro.php:112
+[06-Feb-2016 20:23:50 UTC] PHP Warning:  Missing argument 4 for Cuadro::__construct(), called in /home/ubuntu/workspace/clases/ManageCuadro.php on line 112 and defined in /home/ubuntu/workspace/clases/Cuadro.php on line 6
+[06-Feb-2016 20:23:50 UTC] PHP Stack trace:
+[06-Feb-2016 20:23:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:23:50 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:23:50 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:23:50 UTC] PHP   4. ManageCuadro->getList2() /home/ubuntu/workspace/clases/ControladorCuadro.php:86
+[06-Feb-2016 20:23:50 UTC] PHP   5. Cuadro->__construct() /home/ubuntu/workspace/clases/ManageCuadro.php:112
+[06-Feb-2016 20:23:50 UTC] PHP Warning:  Missing argument 4 for Cuadro::__construct(), called in /home/ubuntu/workspace/clases/ManageCuadro.php on line 112 and defined in /home/ubuntu/workspace/clases/Cuadro.php on line 6
+[06-Feb-2016 20:23:50 UTC] PHP Stack trace:
+[06-Feb-2016 20:23:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:23:50 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:23:50 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:23:50 UTC] PHP   4. ManageCuadro->getList2() /home/ubuntu/workspace/clases/ControladorCuadro.php:86
+[06-Feb-2016 20:23:50 UTC] PHP   5. Cuadro->__construct() /home/ubuntu/workspace/clases/ManageCuadro.php:112
+[06-Feb-2016 20:23:50 UTC] PHP Warning:  file_get_contents(../plantilla/_obras.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 20:23:50 UTC] PHP Stack trace:
+[06-Feb-2016 20:23:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:23:50 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:23:50 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:23:50 UTC] PHP   4. Plantilla::cargarPlantilla() /home/ubuntu/workspace/clases/ControladorCuadro.php:87
+[06-Feb-2016 20:23:50 UTC] PHP   5. file_get_contents() /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 20:23:50 UTC] PHP Fatal error:  Call to undefined method Cuadro::getID() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 92
+[06-Feb-2016 20:23:50 UTC] PHP Stack trace:
+[06-Feb-2016 20:23:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:23:50 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:23:50 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:24:16 UTC] PHP Warning:  file_get_contents(../plantilla/_obras.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 20:24:16 UTC] PHP Stack trace:
+[06-Feb-2016 20:24:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:24:16 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:24:16 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:24:16 UTC] PHP   4. Plantilla::cargarPlantilla() /home/ubuntu/workspace/clases/ControladorCuadro.php:87
+[06-Feb-2016 20:24:16 UTC] PHP   5. file_get_contents() /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 20:24:16 UTC] PHP Fatal error:  Call to undefined method Cuadro::getID() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 92
+[06-Feb-2016 20:24:16 UTC] PHP Stack trace:
+[06-Feb-2016 20:24:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:24:16 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:24:16 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:24:19 UTC] PHP Warning:  file_get_contents(../plantilla/_obras.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/clases/Plantilla.php on line 4
+[06-Feb-2016 20:24:19 UTC] PHP Stack trace:
+[06-Feb-2016 20:24:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:24:19 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:24:19 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:24:19 UTC] PHP   4. Plantilla::cargarPlantilla() /home/ubuntu/workspace/clases/ControladorCuadro.php:87
+[06-Feb-2016 20:24:19 UTC] PHP   5. file_get_contents() /home/ubuntu/workspace/clases/Plantilla.php:4
+[06-Feb-2016 20:24:19 UTC] PHP Fatal error:  Call to undefined method Cuadro::getID() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 92
+[06-Feb-2016 20:24:19 UTC] PHP Stack trace:
+[06-Feb-2016 20:24:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:24:19 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:24:19 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:26:47 UTC] PHP Fatal error:  Call to undefined method Cuadro::getID() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 92
+[06-Feb-2016 20:26:47 UTC] PHP Stack trace:
+[06-Feb-2016 20:26:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:26:47 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:26:47 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:29:53 UTC] PHP Fatal error:  Call to undefined method ManageCuadro::getList2Where() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 89
+[06-Feb-2016 20:29:53 UTC] PHP Stack trace:
+[06-Feb-2016 20:29:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:29:53 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:29:53 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 20:33:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/clases/ManageCuadro.php on line 26
+[06-Feb-2016 20:33:57 UTC] PHP Stack trace:
+[06-Feb-2016 20:33:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:33:57 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:33:57 UTC] PHP   3. spl_autoload_call() /home/ubuntu/workspace/cuadro/index.php:8
+[06-Feb-2016 20:33:57 UTC] PHP   4. AutoCarga::cargar() /home/ubuntu/workspace/cuadro/index.php:8
+[06-Feb-2016 20:36:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 93
+[06-Feb-2016 20:36:50 UTC] PHP Stack trace:
+[06-Feb-2016 20:36:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 20:36:50 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 20:36:50 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[06-Feb-2016 21:04:07 UTC] PHP Fatal error:  Call to undefined method ControladorCuadro::metodo0() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 14
+[06-Feb-2016 21:04:07 UTC] PHP Stack trace:
+[06-Feb-2016 21:04:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 21:04:07 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[06-Feb-2016 21:08:55 UTC] PHP Fatal error:  Call to undefined method ControladorCuadro::metodo0() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 14
+[06-Feb-2016 21:08:55 UTC] PHP Stack trace:
+[06-Feb-2016 21:08:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[06-Feb-2016 21:08:55 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[07-Feb-2016 11:21:58 UTC] PHP Warning:  unlink(archivos/jluislechado@gmail.com/andoni.jpg): No such file or directory in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 110
+[07-Feb-2016 11:21:58 UTC] PHP Stack trace:
+[07-Feb-2016 11:21:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 11:21:58 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[07-Feb-2016 11:21:58 UTC] PHP   3. ControladorCuadro->metodoborrar() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[07-Feb-2016 11:21:58 UTC] PHP   4. unlink() /home/ubuntu/workspace/clases/ControladorCuadro.php:110
+[07-Feb-2016 11:41:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 137
+[07-Feb-2016 11:41:58 UTC] PHP Stack trace:
+[07-Feb-2016 11:41:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 11:42:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 137
+[07-Feb-2016 11:42:04 UTC] PHP Stack trace:
+[07-Feb-2016 11:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 11:43:19 UTC] PHP Fatal error:  Call to undefined method ControladorCuadro::metodo0() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 14
+[07-Feb-2016 11:43:19 UTC] PHP Stack trace:
+[07-Feb-2016 11:43:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 11:43:19 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[07-Feb-2016 11:44:51 UTC] PHP Fatal error:  Call to undefined method ControladorCuadro::metodo0() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 14
+[07-Feb-2016 11:44:51 UTC] PHP Stack trace:
+[07-Feb-2016 11:44:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 11:44:51 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[07-Feb-2016 12:27:49 UTC] PHP Parse error:  syntax error, unexpected '$datos' (T_VARIABLE), expecting function (T_FUNCTION) in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 136
+[07-Feb-2016 12:27:49 UTC] PHP Stack trace:
+[07-Feb-2016 12:27:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 12:28:23 UTC] PHP Fatal error:  Call to undefined method Cuadro::getPlantilla() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 115
+[07-Feb-2016 12:28:23 UTC] PHP Stack trace:
+[07-Feb-2016 12:28:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 12:28:23 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[07-Feb-2016 12:28:23 UTC] PHP   3. ControladorCuadro->metodoverGaleria() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[07-Feb-2016 12:29:20 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 114
+[07-Feb-2016 12:29:20 UTC] PHP Stack trace:
+[07-Feb-2016 12:29:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 12:29:20 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[07-Feb-2016 12:29:20 UTC] PHP   3. ControladorCuadro->metodoverGaleria() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[07-Feb-2016 12:32:49 UTC] PHP Fatal error:  Call to a member function getPlantilla() on a non-object in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 115
+[07-Feb-2016 12:32:49 UTC] PHP Stack trace:
+[07-Feb-2016 12:32:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 12:32:49 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[07-Feb-2016 12:32:49 UTC] PHP   3. ControladorCuadro->metodoverGaleria() /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[07-Feb-2016 17:29:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/clases/ControladorArtista.php on line 327
+[07-Feb-2016 17:29:42 UTC] PHP Stack trace:
+[07-Feb-2016 17:29:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[07-Feb-2016 17:31:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 155
+[07-Feb-2016 17:31:03 UTC] PHP Stack trace:
+[07-Feb-2016 17:31:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 17:37:30 UTC] PHP Parse error:  syntax error, unexpected '$plantilla' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/clases/ControladorArtista.php on line 322
+[07-Feb-2016 17:37:30 UTC] PHP Stack trace:
+[07-Feb-2016 17:37:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[07-Feb-2016 17:37:33 UTC] PHP Parse error:  syntax error, unexpected '$plantilla' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/clases/ControladorArtista.php on line 322
+[07-Feb-2016 17:37:33 UTC] PHP Stack trace:
+[07-Feb-2016 17:37:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[07-Feb-2016 17:42:55 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/ubuntu/workspace/clases/ControladorArtista.php on line 342
+[07-Feb-2016 17:42:55 UTC] PHP Stack trace:
+[07-Feb-2016 17:42:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[07-Feb-2016 19:03:55 UTC] PHP Fatal error:  Call to undefined method ControladorCuadro::metodo0() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 14
+[07-Feb-2016 19:03:55 UTC] PHP Stack trace:
+[07-Feb-2016 19:03:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 19:03:55 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[07-Feb-2016 19:10:01 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/ubuntu/workspace/clases/ControladorArtista.php on line 318
+[07-Feb-2016 19:10:01 UTC] PHP Stack trace:
+[07-Feb-2016 19:10:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/artista/index.php:0
+[07-Feb-2016 19:10:01 UTC] PHP   2. ControladorArtista->handle() /home/ubuntu/workspace/artista/index.php:4
+[07-Feb-2016 19:10:01 UTC] PHP   3. ControladorArtista->metodoviewElegir($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorArtista.php:12
+[07-Feb-2016 19:40:03 UTC] PHP Fatal error:  Call to undefined method Cuadro::getNombreArtistico() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 21
+[07-Feb-2016 19:40:03 UTC] PHP Stack trace:
+[07-Feb-2016 19:40:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 19:40:03 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[07-Feb-2016 19:40:03 UTC] PHP   3. ControladorCuadro->metodoviewSubir($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[07-Feb-2016 19:42:14 UTC] PHP Fatal error:  Call to undefined method Cuadro::getNombreArtistico() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 93
+[07-Feb-2016 19:42:14 UTC] PHP Stack trace:
+[07-Feb-2016 19:42:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 19:42:14 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[07-Feb-2016 19:42:14 UTC] PHP   3. ControladorCuadro->metodoeliminarCuadro($gestor = *uninitialized*) /home/ubuntu/workspace/clases/ControladorCuadro.php:12
+[07-Feb-2016 19:47:16 UTC] PHP Fatal error:  Call to undefined method Cuadro::getNombreArtistico() in /home/ubuntu/workspace/clases/ControladorCuadro.php on line 119
+[07-Feb-2016 19:47:16 UTC] PHP Stack trace:
+[07-Feb-2016 19:47:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cuadro/index.php:0
+[07-Feb-2016 19:47:16 UTC] PHP   2. ControladorCuadro->handle() /home/ubuntu/workspace/cuadro/index.php:4
+[07-Feb-2016 19:47:16 UTC] PHP   3. ControladorCuadro->metodoverGaleria() /home/ubuntu/workspace/clases/ControladorCuadro.php:12

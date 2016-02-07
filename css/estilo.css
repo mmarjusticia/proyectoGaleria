@@ -1,0 +1,127 @@
+@font-face {
+    font-family: 'ralewayregular';
+    src: url('../fuentes/raleway-regular-webfont.eot');
+    src: url('../fuentes/raleway-regular-webfont.eot?#iefix') format('embedded-opentype'), 
+    url('../fuentes/raleway-regular-webfont.woff2') format('woff2'), 
+    url('../fuentes/raleway-regular-webfont.woff') format('woff'), 
+    url('../fuentes/raleway-regular-webfont.ttf') format('truetype'), 
+    url('../fuentes/raleway-regular-webfont.svg#ralewayregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+#imagenHeader{width:100%;}
+#pie{width: 100%;}
+#contenedor1{background-color:white;
+            width:100%;
+            margin-top:-2%;
+}
+#contenedor2{
+            background-color:black;
+            width:100%;
+           
+}
+#lista1{width:50%;
+        margin:0 auto;
+        margin-top:6%;
+      
+        background-color:black;
+}
+.lista2{width:48%;
+        height:500px;
+        margin-top:1%;
+        float:left;
+      
+        background-color:#500105;
+}
+li{list-style:none;}
+.imCuadro1{width:70%;
+            padding-left:15%;
+           
+}
+.imCuadro2{width:70%;
+            padding-left:15%;
+           
+}
+#titulo1,#titulo2{text-align:center;
+            padding-top:3%;
+            color:white;
+}
+#descripcion1,#descripcion2{color:white;
+            width:30%;
+            text-align:center;
+            margin:0 auto;
+            padding-bottom:2%;
+            margin-top:5%;
+}
+#form{width:30%;
+            margin:0 auto;
+            background-color:c7bfad;
+            color:black;
+            height:100px;
+            background-color:#79705e;
+             background-color:#918772;
+            line-style:none;
+            color:black;
+            padding:5%;
+            font-family:ralewayregular;
+}
+#form input{padding:1%;
+            width:40%;
+            border:2px solid #79705e;
+            font-family:ralewayregular;
+}
+#contenedor{width:100%;
+        background-color:#0d0a0a;
+        margin-top:-1%;
+        height:1080px;
+         padding-top:3%;
+         text-align:center;
+         color:#bcbcbc;
+         line-height:25pt;
+}
+#principal{width:50%;
+            margin:0 auto;
+            background-color:c7bfad;
+            color:black;
+            height:100px;
+            background-color:#79705e;
+            line-style:none;
+            color:black;
+            padding-top:5%;
+             padding-bottom:5%;
+              padding-right:5%;
+               padding-left:3%;
+          
+         
+}
+.enlaces,.borrar{list-style:none;
+        text-decoration:none;
+        color:#bcbcbc;;
+           font-family:ralewayregular;
+           font-size:1.1em;
+}
+.bienvenido{color:white;
+        font-family:ralewayregular;
+}
+#entrada{color:white;
+        font-family:ralewayregular;
+        font-size:1.3em;
+}
+
+.artistas{width:35%;
+        font-family:ralewayregular;
+        font-size:1.3em;
+        margin:0 auto;
+        
+}
+.verLista,.borrar{color:white;
+            font-size:0.8em;
+            list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.titulo{font-family:ralewayregular;
+        font-size:1.3em;}
